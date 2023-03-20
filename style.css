@@ -16,7 +16,25 @@
 }
 
 .editorial {
-    font-size:smaller;
+    font-size:small;
     background-color:rgba(0, 136, 255, 0.8);
-    border-radius: 20%;
+    border-radius: 30%;
+}
+
+.q1goals {
+    font-size:small;
+    background-color:violet;
+    border-radius: 30%;
+}
+
+.recruiting {
+    font-size:small;
+    background-color:aquamarine;
+    border-radius: 30%;
+}
+
+.mobile {
+    font-size:small;
+    background-color:orange;
+    border-radius: 30%;
 }
